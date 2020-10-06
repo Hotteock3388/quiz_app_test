@@ -9,8 +9,8 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     Size screenSize = MediaQuery.of(context).size;
-    double width = screenSize.width;
-    double height = screenSize.height;
+    double width = screenSize.width*0.9;
+    double height = screenSize.height*0.9;
 
     return SafeArea(
       child: Scaffold(

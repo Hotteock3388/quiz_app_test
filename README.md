@@ -1,6 +1,6 @@
 # quiz_app_test
 
-A new Flutter project.
+Flutter에 익숙해지기 위해 인프런 강의 보며 공부
 
 ## Getting Started
 
